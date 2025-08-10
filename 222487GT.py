@@ -7,7 +7,7 @@ with open("globalterrorist.txt",'r') as fp:
     #ii) array that contains every line in the file
     arrayOfLine=[]
     arraysOfLines=[]
-
+   #easter egg
    #the below block of code appends all the lines into one array and each string value
    #of the digits becomes an integer
     
